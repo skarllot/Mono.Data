@@ -138,3 +138,9 @@ Desktop.ini
 temp_ignore/
 *.ncrunch*
 *.userprefs
+
+UpgradeLog*
+*.log
+*.VC.db
+NuGet/*/lib/*/*.dll
+NuGet/*.nupkg
